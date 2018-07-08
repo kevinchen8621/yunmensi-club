@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 云门寺学习社区项目缘起
 
-You can use the [editor on GitHub](https://github.com/kevinchen8621/yunmensi-club/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+由云门寺委托，师父和居士协作开发的佛法学习社区软件。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如来家业传承不易。出家师父靠言传身教传承祖师精神和规矩， 在家弟子抽出有限的时间来寺庙亲近三宝，学习佛法。信息化时代，环境与古代早已千差万别，计算机辅助管理和弘法，将使传承得以更精确的保护，将传承融入计算机管理系统。 让师父和居士有使用互联网工具共同参与到护持三宝的工作中来。由此初心，希望佛弟子利用业余时间，共同参与开发。
 
-### Markdown
+发心参与开发工作的居士可以联系 耀麟法师(微信号 lin1510751)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### 初版实现功能
+软件功能迭代开发，随着用户的反馈做相应的修改
 
 ```markdown
-Syntax highlighted code block
+一、明向大和尚《成佛之道》讲座录音的在线播放，能做到历史记录功能
+二、社区功能，方便居士和师父发表学习体会和相互交流学习心得
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 项目开发者
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevinchen8621/yunmensi-club/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+hiandytang
+kevinchen8621
